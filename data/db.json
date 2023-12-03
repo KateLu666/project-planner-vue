@@ -1,0 +1,22 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create new homepage banner",
+      "details": "Create a new homepage banner for the website",
+      "complete": false
+    },
+    {
+      "id": 3,
+      "title": "Develop user feedback survey",
+      "details": "Design and deploy a survey for collecting user feedback on the new website features",
+      "complete": true
+    },
+    {
+      "title": "hahahaha",
+      "details": "hahahaha",
+      "complete": false,
+      "id": 6
+    }
+  ]
+}
